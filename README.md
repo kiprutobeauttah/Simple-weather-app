@@ -25,4 +25,4 @@ This app uses the [Weather API](https://www.weatherapi.com/) to retrieve weather
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/kiprutobeauttah/weather-app.git
+    https://github.com/kiprutobeauttah/Simple-weather-app.git
